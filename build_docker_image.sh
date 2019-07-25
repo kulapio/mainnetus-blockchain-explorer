@@ -5,7 +5,7 @@
 #!/bin/bash
 
 FABRIC_EXPLORER_DB_TAG="hyperledger/explorer-db"
-FABRIC_EXPLORER_TAG="hyperledger/explorer"
+FABRIC_EXPLORER_TAG="mainnetus/explorer"
 
 function banner(){
 	echo ""
